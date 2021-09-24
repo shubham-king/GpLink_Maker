@@ -8,6 +8,7 @@ API_ID = environ.get('API_ID')
 API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
 API_KEY = ('278d43c97ad2c336f5a41369e0bb7f803e3b4675')
+#don't edit API_KEY because you can't get API_KEY at this time! ✖️✖️
 
 bot = Client('gplink bot',
              api_id=API_ID,
