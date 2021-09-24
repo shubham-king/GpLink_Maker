@@ -18,3 +18,4 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 ## Credites
 
 [mahesh](https://github.com/Mahesh0253) for this cool repo
+`me` for nothing 😂😒
