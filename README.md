@@ -12,7 +12,7 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_KEY`: Cre
+
 
 
 ## Credites
