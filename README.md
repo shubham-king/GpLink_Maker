@@ -13,3 +13,8 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_KEY`: Create [GPlink](https://gplinks.in/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
+
+
+## Credites
+
+[mahesh](https://github.com/Mahesh0253) for this cool repo
