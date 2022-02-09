@@ -29,10 +29,10 @@ async def start(bot, message):
                          reply_markup=InlineKeyboardMarkup(
                        [[
                           InlineKeyboardButton(
-                             " 🏷️  Channel ", url="https://t.me/RobotTech_official")
+                             " 🏷️  Channel ", url="https://t.me/crystalbots")
                        ],[
                           InlineKeyboardButton(
-                             "🌐 Source Code ", url="https://gplinks.co/DVScQs8")
+                             "🌐 Affiliate Program  ", url="https://t.me/CRYSTALBOTS/11")
                        ]]
                    ))
 
